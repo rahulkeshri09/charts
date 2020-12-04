@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/rahulkeshri09/charts.git/static/css/main.d70c2686.chunk.css",
-    "main.js": "/rahulkeshri09/charts.git/static/js/main.c1e73be6.chunk.js",
-    "main.js.map": "/rahulkeshri09/charts.git/static/js/main.c1e73be6.chunk.js.map",
-    "runtime-main.js": "/rahulkeshri09/charts.git/static/js/runtime-main.412d3939.js",
-    "runtime-main.js.map": "/rahulkeshri09/charts.git/static/js/runtime-main.412d3939.js.map",
-    "static/js/2.21099d72.chunk.js": "/rahulkeshri09/charts.git/static/js/2.21099d72.chunk.js",
-    "static/js/2.21099d72.chunk.js.map": "/rahulkeshri09/charts.git/static/js/2.21099d72.chunk.js.map",
-    "index.html": "/rahulkeshri09/charts.git/index.html",
-    "static/css/main.d70c2686.chunk.css.map": "/rahulkeshri09/charts.git/static/css/main.d70c2686.chunk.css.map",
-    "static/js/2.21099d72.chunk.js.LICENSE.txt": "/rahulkeshri09/charts.git/static/js/2.21099d72.chunk.js.LICENSE.txt"
+    "main.css": "/charts/static/css/main.d70c2686.chunk.css",
+    "main.js": "/charts/static/js/main.c1e73be6.chunk.js",
+    "main.js.map": "/charts/static/js/main.c1e73be6.chunk.js.map",
+    "runtime-main.js": "/charts/static/js/runtime-main.7f382933.js",
+    "runtime-main.js.map": "/charts/static/js/runtime-main.7f382933.js.map",
+    "static/js/2.62755855.chunk.js": "/charts/static/js/2.62755855.chunk.js",
+    "static/js/2.62755855.chunk.js.map": "/charts/static/js/2.62755855.chunk.js.map",
+    "index.html": "/charts/index.html",
+    "static/css/main.d70c2686.chunk.css.map": "/charts/static/css/main.d70c2686.chunk.css.map",
+    "static/js/2.62755855.chunk.js.LICENSE.txt": "/charts/static/js/2.62755855.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.412d3939.js",
-    "static/js/2.21099d72.chunk.js",
+    "static/js/runtime-main.7f382933.js",
+    "static/js/2.62755855.chunk.js",
     "static/css/main.d70c2686.chunk.css",
     "static/js/main.c1e73be6.chunk.js"
   ]
